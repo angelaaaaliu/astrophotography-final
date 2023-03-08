@@ -37,7 +37,7 @@ h1 {
   font-weight: 200;
   font-style: normal; */
 
-  font-size: 3.5em;
+  font-size: 3em;
 }
 
 .navbar {
@@ -68,14 +68,14 @@ code {
   position: absolute;
 }
 
-.planet:hover {
+/* .planet:hover {
   border-width: 2px;
   border-style: solid;
-}
+} */
 
-.planet .heart-nebula {
-  top: 60%;
-  right: 75%;
+.planet {
+  /* top: 60%;
+  right: 75%; */
 }
 
 .heart-nebula {
@@ -85,21 +85,68 @@ code {
   width: 50px;
   top: 60%;
   right: 75%;
+
+}
+
+.andromeda, .heart-nebula, .triangulum, .orion-web{
   position:absolute;
   display: flex;
   justify-content: center;
   align-items: center;
+
+}
+
+.andromeda {
+  height: 20px;
+  width: 20px;
+  top: 30%;
+  right: 25%;
+  background: rgb(247,241,227);
+  background: radial-gradient(circle, rgba(247,241,227,1) 9%, rgba(161,142,113,1) 52%, rgba(86,63,84,1) 100%);
+}
+
+.triangulum {
+  height: 40px;
+  width: 40px;
+  top: 20%;
+  right: 55%;
+  background: rgb(247,241,227);
+  background: radial-gradient(circle, rgba(247,241,227,1) 3%, rgba(140,144,159,1) 51%, rgba(194,192,206,1) 100%);
+}
+
+.orion-web {
+  height: 55px;
+  width: 55px;
+  top: 75%;
+  right: 55%;
+  background: rgb(237,178,190);
+  background: radial-gradient(circle, rgba(237,178,190,1) 10%, rgba(178,45,90,1) 48%, rgba(2,190,216,1) 70%);
+}
+
+.pleiades-web {
+  height: 30px;
+  width: 30px;
+  top: 55%;
+  right:20%;
+  background: rgb(178,222,255);
+  background: radial-gradient(circle, rgba(178,222,255,1) 10%, rgba(56,175,231,1) 48%, rgba(68,113,135,1) 92%);
 }
 
 .blur {
   filter: blur(4px);
   position: absolute;
+  
+}
+
+.blur:hover {
+  border-width: 2px;
+  border-style: solid;
 }
 
 .photo-info-wrapper {
   border-style: solid;
   border-width: 1px;
-  /* border-radius: 20px; */
+  border-radius: 20px 0px;
   width: 90vw;
   height: 90vh;
   position:absolute;
@@ -108,6 +155,7 @@ code {
   /* display: none; */
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
 .photo, .photo-desc {
@@ -170,4 +218,52 @@ code {
   position: absolute;
   width: 90%;
   height: 90%;
+}
+
+.about {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  margin: 100px 30vw;
+  
+}
+
+.about h1 {
+  margin-top: 0;
+}
+
+.about img {
+  margin-right: 20px;
+  max-height: 40%;
+  max-width: 30%;
+}
+
+.about-desc {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-height: 40%;
+}
+
+.photo-decor img{
+  width: 20px;
+  margin-right: 10px;
+}
+
+.photo-decor {
+  display: flex;
+  width: 60%;
+  position: absolute;
+  top: 2%;
+  left: 2%;
+  align-items: center;
+}
+
+.line {
+  width: 30%;
+  height: 1px;
+  border-top-style: solid;
+  border-top-color: white;
+  border-top-width: 1px;
 }
