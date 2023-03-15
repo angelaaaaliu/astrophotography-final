@@ -2,7 +2,7 @@
   "name": "astrophotography",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://angelaaaaliu.github.io/astrophotography",
+  "homepage": "https://angelaaaaliu.github.io/astrophotography-final",
   "dependencies": {
     "@react-three/fiber": "^8.11.7",
     "@splinetool/react-spline": "^2.2.6",
