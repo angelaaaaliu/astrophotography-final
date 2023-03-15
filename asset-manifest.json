@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/astrophotography/static/css/main.6f9a2a34.css",
-    "main.js": "/astrophotography/static/js/main.6f462aa7.js",
-    "static/js/227.6a1711f5.chunk.js": "/astrophotography/static/js/227.6a1711f5.chunk.js",
-    "static/js/526.ed518b51.chunk.js": "/astrophotography/static/js/526.ed518b51.chunk.js",
-    "static/js/232.e65fd816.chunk.js": "/astrophotography/static/js/232.e65fd816.chunk.js",
-    "static/js/237.06d7dbd5.chunk.js": "/astrophotography/static/js/237.06d7dbd5.chunk.js",
-    "static/media/m31_andromeda_web.JPEG": "/astrophotography/static/media/m31_andromeda_web.afc891222abbd8a8a104.JPEG",
-    "static/media/ic1805_heart_nebula_web.JPEG": "/astrophotography/static/media/ic1805_heart_nebula_web.632275d2f7a0e5382651.JPEG",
-    "static/media/m42_orion_web.JPEG": "/astrophotography/static/media/m42_orion_web.35ecd8548d8c0ddb0404.JPEG",
-    "static/media/m33_triangulum_web.JPEG": "/astrophotography/static/media/m33_triangulum_web.485048e30bab4ab71781.JPEG",
-    "static/media/m45_pleiades_web.JPEG": "/astrophotography/static/media/m45_pleiades_web.d50788676e48854a24e4.JPEG",
-    "static/media/stars.jpg": "/astrophotography/static/media/stars.29ca757ff9bed6d69a42.jpg",
-    "static/media/jia-portrait.jpg": "/astrophotography/static/media/jia-portrait.fa236247e1e6a2e5f088.jpg",
-    "index.html": "/astrophotography/index.html",
-    "main.6f9a2a34.css.map": "/astrophotography/static/css/main.6f9a2a34.css.map",
-    "main.6f462aa7.js.map": "/astrophotography/static/js/main.6f462aa7.js.map",
-    "227.6a1711f5.chunk.js.map": "/astrophotography/static/js/227.6a1711f5.chunk.js.map",
-    "526.ed518b51.chunk.js.map": "/astrophotography/static/js/526.ed518b51.chunk.js.map",
-    "232.e65fd816.chunk.js.map": "/astrophotography/static/js/232.e65fd816.chunk.js.map",
-    "237.06d7dbd5.chunk.js.map": "/astrophotography/static/js/237.06d7dbd5.chunk.js.map"
+    "main.css": "/astrophotography-final/static/css/main.6f9a2a34.css",
+    "main.js": "/astrophotography-final/static/js/main.c56694f8.js",
+    "static/js/227.6a1711f5.chunk.js": "/astrophotography-final/static/js/227.6a1711f5.chunk.js",
+    "static/js/526.ed518b51.chunk.js": "/astrophotography-final/static/js/526.ed518b51.chunk.js",
+    "static/js/232.e65fd816.chunk.js": "/astrophotography-final/static/js/232.e65fd816.chunk.js",
+    "static/js/237.06d7dbd5.chunk.js": "/astrophotography-final/static/js/237.06d7dbd5.chunk.js",
+    "static/media/m31_andromeda_web.JPEG": "/astrophotography-final/static/media/m31_andromeda_web.afc891222abbd8a8a104.JPEG",
+    "static/media/ic1805_heart_nebula_web.JPEG": "/astrophotography-final/static/media/ic1805_heart_nebula_web.632275d2f7a0e5382651.JPEG",
+    "static/media/m42_orion_web.JPEG": "/astrophotography-final/static/media/m42_orion_web.35ecd8548d8c0ddb0404.JPEG",
+    "static/media/m33_triangulum_web.JPEG": "/astrophotography-final/static/media/m33_triangulum_web.485048e30bab4ab71781.JPEG",
+    "static/media/m45_pleiades_web.JPEG": "/astrophotography-final/static/media/m45_pleiades_web.d50788676e48854a24e4.JPEG",
+    "static/media/stars.jpg": "/astrophotography-final/static/media/stars.29ca757ff9bed6d69a42.jpg",
+    "static/media/jia-portrait.jpg": "/astrophotography-final/static/media/jia-portrait.fa236247e1e6a2e5f088.jpg",
+    "index.html": "/astrophotography-final/index.html",
+    "main.6f9a2a34.css.map": "/astrophotography-final/static/css/main.6f9a2a34.css.map",
+    "main.c56694f8.js.map": "/astrophotography-final/static/js/main.c56694f8.js.map",
+    "227.6a1711f5.chunk.js.map": "/astrophotography-final/static/js/227.6a1711f5.chunk.js.map",
+    "526.ed518b51.chunk.js.map": "/astrophotography-final/static/js/526.ed518b51.chunk.js.map",
+    "232.e65fd816.chunk.js.map": "/astrophotography-final/static/js/232.e65fd816.chunk.js.map",
+    "237.06d7dbd5.chunk.js.map": "/astrophotography-final/static/js/237.06d7dbd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f9a2a34.css",
-    "static/js/main.6f462aa7.js"
+    "static/js/main.c56694f8.js"
   ]
 }
