@@ -10,6 +10,8 @@ const About = () => {
                     Jia currently resides in the Bay Area with his wife and two daughters. His other photographic subjects include birds, 
                     nature, city landscapes, and his family.
                 </p>
+                <p>Camera: Olyympus EM1 Mark III</p>
+                <p>Lens: Olympus Zuiko 150-400 f4</p>
             </div>
         </div>
 
