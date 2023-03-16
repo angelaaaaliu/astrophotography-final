@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/astrophotography-final/static/css/main.6f9a2a34.css",
-    "main.js": "/astrophotography-final/static/js/main.c56694f8.js",
+    "main.css": "/astrophotography-final/static/css/main.18458770.css",
+    "main.js": "/astrophotography-final/static/js/main.58d94a6b.js",
     "static/js/227.6a1711f5.chunk.js": "/astrophotography-final/static/js/227.6a1711f5.chunk.js",
     "static/js/526.ed518b51.chunk.js": "/astrophotography-final/static/js/526.ed518b51.chunk.js",
     "static/js/232.e65fd816.chunk.js": "/astrophotography-final/static/js/232.e65fd816.chunk.js",
@@ -14,15 +14,15 @@
     "static/media/stars.jpg": "/astrophotography-final/static/media/stars.29ca757ff9bed6d69a42.jpg",
     "static/media/jia-portrait.jpg": "/astrophotography-final/static/media/jia-portrait.fa236247e1e6a2e5f088.jpg",
     "index.html": "/astrophotography-final/index.html",
-    "main.6f9a2a34.css.map": "/astrophotography-final/static/css/main.6f9a2a34.css.map",
-    "main.c56694f8.js.map": "/astrophotography-final/static/js/main.c56694f8.js.map",
+    "main.18458770.css.map": "/astrophotography-final/static/css/main.18458770.css.map",
+    "main.58d94a6b.js.map": "/astrophotography-final/static/js/main.58d94a6b.js.map",
     "227.6a1711f5.chunk.js.map": "/astrophotography-final/static/js/227.6a1711f5.chunk.js.map",
     "526.ed518b51.chunk.js.map": "/astrophotography-final/static/js/526.ed518b51.chunk.js.map",
     "232.e65fd816.chunk.js.map": "/astrophotography-final/static/js/232.e65fd816.chunk.js.map",
     "237.06d7dbd5.chunk.js.map": "/astrophotography-final/static/js/237.06d7dbd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f9a2a34.css",
-    "static/js/main.c56694f8.js"
+    "static/css/main.18458770.css",
+    "static/js/main.58d94a6b.js"
   ]
 }
